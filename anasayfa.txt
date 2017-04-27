@@ -1,0 +1,12 @@
+<h1>  Welcome to my website <h1>
+		<h2><a href=" aboutme.html   ">About Me</a></h2>
+	 <h2><a href="hobby.html">My Hobby</a></h2>
+	<h2><a href="galery.html">My Photo Galery</a></h2>
+	<h2><a href="balkes.html">My Hometown</a></h2>
+  <h2><a href="familytree.html">My Family Tree</a></h2>
+	
+	<h3> MY ACCOUNT ARE : </h3>
+    <li> https://www.facebook.com/cansu.cici </li>
+	<li> https://www.instagram.com/cansucici/ </li>
+	
+	 <h2><a href="new 1.html">Registration Form</a></h2>

@@ -1,0 +1,26 @@
+.Prof-box{
+width: 400px;
+	height: 520px;
+	background: rgba(11, 29, 0, 0.2);
+	padding: 40px;
+	color: black;
+	margin: 0 auto;
+	margin-top: 140px;
+	text-align: center;
+}
+
+
+.hoobby{
+background-color: rgba(240,240,240,0.90);
+  border-color: rgb(240,240,240);
+}
+
+
+.body {
+background: url(duvar.jpg) no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+
+}
